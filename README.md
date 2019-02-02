@@ -2,7 +2,26 @@
 
 In this assignment, we will work with the video lesson 3.6 to create a Calculator program. This will serve an exercise for using Java I/O again, as well as a tutorial for how to work with Java operators and control structures.
 
-Although the video is using DrJava and you will be working in IntelliJ IDEA I think you will find that it is easy to follow along.
+Although the video is using DrJava and you will be working in IntelliJ IDEA I think you will find that it is easy to follow along. To create the Calculator class follow these steps in Intellij.
+
+1. Click on the ```src``` folder. This is where your Calculator class will be added.
+2. File → New... → Class...
+
+ ![new class menu](images/new_class.png)
+3. Specify the name as 'Calculator' (remember that class names should be uppercase)
+
+ ![naming class](images/class_name.png)
+4. Add your class to git
+
+ ![add to git](images/add_to_git.png)
+5. Create a main method by typing psvm and hitting tab
+
+ ![add main method](images/create_main.png)
+
+You are ready to start, your class should look like:
+
+![calculator class](images/final_class.png)
+
 
 Following the steps as described in the video, make sure your calculator will:
 
