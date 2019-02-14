@@ -4,6 +4,15 @@ In this assignment, we will work with the video lesson 3.6 to create a Calculato
 
 Although the video is using DrJava and you will be working in IntelliJ IDEA I think you will find that it is easy to follow along. To create the Calculator class follow these steps in Intellij.
 
+## Project setup:
+
+Please open the Project tab and click on the name of the project. This should be named ```section-3-activity-``` followed by your GitHub username.
+
+1. Click File → New... → Directory
+2. Enter ```src``` as the name of the new directory.
+
+## Create the Calculator class file
+
 1. Click on the ```src``` folder. This is where your Calculator class will be added.
 2. File → New... → Class...
 
@@ -22,6 +31,7 @@ You are ready to start, your class should look like:
 
 ![calculator class](images/final_class.png)
 
+## Complete the activity
 
 Following the steps as described in the video, make sure your calculator will:
 
